@@ -1,2 +1,2 @@
 # vite-test1
-vite-elementplus-test
+ 自封装promise
